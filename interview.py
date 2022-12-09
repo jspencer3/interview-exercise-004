@@ -23,7 +23,7 @@ class pokerHand:
         self.is_straight_flush = False
         self.is_royal_flush = False
         self.duplicateCards()
-        self.finalOutPut()
+        # self.finalOutPut()
 
     # Creates a dictionary with key as the card number and the data is the number of occurances
     def cardCounts(self):
